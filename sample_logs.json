@@ -1,1 +1,82 @@
-
+[
+  {
+    "id": "log-01",
+    "date": "2026-11-15",
+    "transcript": "I was back at the lake house just after dawn. The water was warm and perfectly still, and my grandmother was making tea in the kitchen while the light spilled across the floor. I woke up feeling light, like there was nowhere I needed to be.",
+    "motifs": ["water", "home", "family", "light"],
+    "vocal_stress": 22,
+    "dominant_emotion": "Calm"
+  },
+  {
+    "id": "log-02",
+    "date": "2026-11-16",
+    "transcript": "I was sitting in a huge exam hall and the clock on the wall kept speeding up. My pen ran out of ink, I could not remember a single formula, and everyone else was already handing in their papers. I woke up with my heart racing.",
+    "motifs": ["exam", "time pressure", "lost"],
+    "vocal_stress": 68,
+    "dominant_emotion": "Anxious"
+  },
+  {
+    "id": "log-03",
+    "date": "2026-11-17",
+    "transcript": "I kept walking down the hostel hallway but it never ended. Every door was locked and my legs felt heavy like wet sand. I just wanted to lie down somewhere and sleep, and I still feel tired now.",
+    "motifs": ["corridor", "heaviness", "home"],
+    "vocal_stress": 55,
+    "dominant_emotion": "Fatigued"
+  },
+  {
+    "id": "log-04",
+    "date": "2026-11-18",
+    "transcript": "I was flying slowly over a river valley at dusk, floating above the water with golden light on the hills. Nothing was chasing me and I did not feel afraid at all. It was the most peaceful sleep I have had in weeks.",
+    "motifs": ["flying", "water", "light"],
+    "vocal_stress": 18,
+    "dominant_emotion": "Calm"
+  },
+  {
+    "id": "log-05",
+    "date": "2026-11-19",
+    "transcript": "I was falling down a dark staircase and the steps kept disappearing under my feet. Then my whole body jerked and I woke up gasping, with my heart pounding in my chest.",
+    "motifs": ["falling", "alarm"],
+    "vocal_stress": 78,
+    "dominant_emotion": "Startled"
+  },
+  {
+    "id": "log-06",
+    "date": "2026-11-20",
+    "transcript": "I was running through a crowded station trying to catch a train to my final presentation, but my phone was dead and I was already late. The platform kept changing and I could not find the right one. I woke up sweating and still checking the clock.",
+    "motifs": ["train", "presentation", "time pressure", "lost"],
+    "vocal_stress": 72,
+    "dominant_emotion": "Anxious"
+  },
+  {
+    "id": "log-07",
+    "date": "2026-11-21",
+    "transcript": "I was stuck in a classroom where the lecture never ended. My eyes kept closing, my head was heavy, and the clock on the wall barely moved. I woke up exhausted, as if I had not slept at all.",
+    "motifs": ["heaviness", "time pressure", "exam"],
+    "vocal_stress": 58,
+    "dominant_emotion": "Fatigued"
+  },
+  {
+    "id": "log-08",
+    "date": "2026-11-22",
+    "transcript": "I was about to give a big presentation for an interview panel when my teeth started crumbling in my mouth. I could not speak clearly and everyone in the audience just stared at me. I woke up afraid and very tense.",
+    "motifs": ["teeth", "presentation", "lost"],
+    "vocal_stress": 74,
+    "dominant_emotion": "Anxious"
+  },
+  {
+    "id": "log-09",
+    "date": "2026-11-23",
+    "transcript": "It was raining outside the window and I was drinking tea at home with old friends, laughing about nothing in particular. The room felt warm and the grey light was soft. I woke up smiling and relaxed.",
+    "motifs": ["water", "friends", "home", "light"],
+    "vocal_stress": 25,
+    "dominant_emotion": "Calm"
+  },
+  {
+    "id": "log-10",
+    "date": "2026-11-24",
+    "transcript": "I was standing in the hostel hallway when water started rising across the floor and an alarm began to ring. All the doors were locked and the flood kept climbing up my legs. I jolted awake, gasping, with my pulse racing.",
+    "motifs": ["water", "corridor", "alarm", "home"],
+    "vocal_stress": 70,
+    "dominant_emotion": "Startled"
+  }
+]
